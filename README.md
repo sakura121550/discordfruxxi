@@ -1,1 +1,2 @@
-# discordfruxxi
+Fruxxi Bot'
+Voing Chan 
